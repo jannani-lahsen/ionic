@@ -13,7 +13,7 @@ export class NewsApiService {
 
     private baseUrl: string = 'https://newsapi.org/v1/';
     private source: string = 'gruenderszene';
-    private apiKey: string = '218fc8f64cdd4efd8dfa00eee873d528';
+    private apiKey: string = 'r';
     
     constructor(private http: Http) {
 
